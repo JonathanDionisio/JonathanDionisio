@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="readmeassets/catype.gif"  />
+  <img height="180" src="readmeassets/catype.gif"  />
 </div>
 
 ###
@@ -17,9 +17,9 @@
 
 </div>
 
-<h1 align="center">hey there 👋</h1>
-<h1 align="center">I'm Jonathan Dionisio</h1>
-<h1 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h1>
+<h3 align="center">hey there 👋</h3>
+<h3 align="center">I'm Jonathan Dionisio</h3>
+<h3 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h3>
 
 ###
 
@@ -58,6 +58,7 @@
   <img width="12" />
    <img src="readmeassets/giticon.png" height="40" alt="go logo"  />
   <img width="12" />
+  <br>
    <img src="readmeassets/godoticon.png" height="40" alt="go logo"  />
   <img width="12" />
    <img src="readmeassets/htmlicon.png" height="40" alt="go logo"  />
@@ -100,6 +101,3 @@
   </a> 
   </div>
 
-<br> 
-
-###
