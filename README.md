@@ -86,3 +86,18 @@
   <img height="150" src="readmeassets/uia.gif"  />
 </div>
 
+<br>
+
+###
+
+<h3 align="center">Checkout my portfolio</h3>
+
+<br>
+
+ <a href = "https://jonathandionisio.vercel.app/">
+  <img src="readmeassets/boo.gif" height="150" alt="linkedin logo"  />
+  </a>  
+
+<br> 
+
+###
