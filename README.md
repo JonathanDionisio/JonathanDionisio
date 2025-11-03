@@ -27,13 +27,17 @@
 
 ###
 
-<p align="center">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">Im mobile and game dev enthusiast, I would love to develop multiple games that I have in my vast imagination. But I think Im kinda busy for making those games for now, but I will develop it when I graduate from collge. <br><br>-Im also looking for experience and opportunities in any game development stuff. I would love to land a job position as a game developer in the future. <br>- Please do reach me out if you can help me out with this requirements that I want in my life 👩‍💻 <br></p>
+
+<br> 
 
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
+
+<br>
 
 <div align="center">
   <img src="readmeassets/firebaseicon.png" height="40" alt="go logo"  />
