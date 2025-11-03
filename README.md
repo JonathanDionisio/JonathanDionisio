@@ -94,7 +94,7 @@
 
 <br>
 
-<div alighn="center">
+<div align="center">
  <a href = "https://jonathandionisio.vercel.app/">
   <img src="readmeassets/boo.gif" height="200" alt="linkedin logo"  />
   </a> 
