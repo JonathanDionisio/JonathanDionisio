@@ -40,18 +40,41 @@
   <img width="12" />
     <img src="readmeassets/androidstudioicon.png" height="40" alt="go logo"  />
   <img width="12" />
-   <img src="readmeassets/androidstudioicon.png" height="40" alt="go logo"  />
+   <img src="readmeassets/cplusicon.PNG" height="40" alt="go logo"  />
   <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+   <img src="readmeassets/csharpicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/darticon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/cssicon.jpg" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/figmaicon.jpg" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/fluttericon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/giticon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/godoticon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/htmlicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/javaicon.PNG" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/jsicon.PNG" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/mongodbicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/pythonicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/reactjsicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/unityicon.png" height="40" alt="go logo"  />
+  <img width="12" />
+   <img src="readmeassets/vscodeicon.png" height="40" alt="go logo"  />
+  <img width="12" />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="150" src="readmeassets/uia.gif"  />
 </div>
+
