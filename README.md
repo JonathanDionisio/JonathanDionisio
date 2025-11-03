@@ -19,6 +19,8 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
+<h1 align="center">I'm Jonathan Dionisio</h1>
+<h1 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h1>
 
 ###
 
