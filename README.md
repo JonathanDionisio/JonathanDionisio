@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="readmeassets/catype.gif"  />
+  <img height="250" src="readmeassets/catype.gif"  />
 </div>
 
 ###
