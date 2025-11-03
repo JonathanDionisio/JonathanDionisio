@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/6d/be/d5/6dbed5461dfebc483f569e06e8dfc268.gif"  />
+  <img height="150" src="readmeassets/catype.gif"  />
 </div>
 
 ###
@@ -16,14 +16,6 @@
   </a>  
 
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 <h1 align="center">I'm Jonathan Dionisio</h1>
