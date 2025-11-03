@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href = "https://www.linkedin.com/in/jonathan-dionisio-0845392ab/">
-  <img src="readmeassets/linkedin.png" height="25" alt="linkedin logo"  />
+  <img src="readmeassets/linkedin.png" height="60" alt="linkedin logo"  />
   </a> 
    <a href = "https://www.facebook.com/jonathan.dionisio.52">
-  <img src="readmeassets/fb.png" height="25" alt="linkedin logo"  />
+  <img src="readmeassets/fb.png" height="60" alt="linkedin logo"  />
   </a>  
    <a href = "https://www.instagram.com/ebisuuu_/">
-  <img src="readmeassets/ig.png" height="25" alt="linkedin logo"  />
+  <img src="readmeassets/ig.png" height="60" alt="linkedin logo"  />
   </a>  
 
 </div>
