@@ -17,9 +17,9 @@
 
 </div>
 
-<h3 align="center">hey there 👋</h3>
-<h3 align="center">I'm Jonathan Dionisio</h3>
-<h3 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h3>
+<h2 align="center">hey there 👋</h2>
+<h2 align="center">I'm Jonathan Dionisio</h2>
+<h2 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h2>
 
 ###
 
@@ -27,7 +27,11 @@
 
 ###
 
-<p align="center">Im mobile and game dev enthusiast, I would love to develop multiple games that I have in my vast imagination. But I think Im kinda busy for making those games for now, but I will develop it when I graduate from collge. <br><br>-Im also looking for experience and opportunities in any game development stuff. I would love to land a job position as a game developer in the future. <br>- Please do reach me out if you can help me out with this requirements that I want in my life 👩‍💻 <br></p>
+<p align="center">Im mobile and game dev enthusiast, I would love to develop multiple games that I have in my vast imagination.
+<p> But I think Im kinda busy for making those games for now, but I will develop it when I graduate from collge. </p>
+<br>
+<br>-Im also looking for experience and opportunities in any game development stuff. I would love to land a job position as a game developer in the future.
+<br>- Please do reach me out if you can help me out with this requirements that I want in my life 👩‍💻 <br></p>
 
 <br> 
 
