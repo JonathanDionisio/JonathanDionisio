@@ -93,7 +93,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanDionisio&show_icons=true&theme=dracula" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=JonathanDionisio&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDionisio&layout=compact&theme=dracula" alt="Top languages" />
 </p>
 
