@@ -93,7 +93,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanDionisio&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanDionisio&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JonathanDionisio&theme=tokyonight" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDionisio&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
