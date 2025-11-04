@@ -92,9 +92,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanDionisio&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanDionisioE&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDionisio&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <br>
