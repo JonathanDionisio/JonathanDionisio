@@ -95,14 +95,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanDionisio&show_icons=true&theme=dracula" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDionisio&layout=compact&theme=dracula" alt="Top languages" />
-</p>
-
 <br>
 
-<h3 align="center">Checkout my portfolio</h3>
+<h3 align="center">Press Pumy the dancing skeleton to Checkout my portfolio</h3>
 
 <br>
 
