@@ -17,21 +17,56 @@
 
 </div>
 
-<h2 align="center">hey there 👋</h2>
-<h2 align="center">I'm Jonathan Dionisio</h2>
-<h2 align="center">Currently studying Bachelor of Science in Information Technology with a specialization of Mobile and Web Application in National University Manila </h2>
+<h2 align="center">yow👋, I'm Jonathan Dionisio, most people call me Nathan and in the internet known as Ebisu</h2>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
+<p align="center"> I’m a BSIT-MWA graduate and a passionate game enthusiast with a strong interest in technology, software development, and interactive applications. </p> <p align="center"> I’m currently looking for opportunities in <strong>software development, IT support, and the game industry</strong>, including roles in <strong>game development and game testing</strong>. </p> <p align="center"> I’m eager to apply my technical knowledge, continue developing my skills, and gain hands-on experience while contributing to real-world projects. I’m open to both <strong>full-time and internship opportunities</strong> and always willing to learn, adapt, and take on new challenges. </p> <p align="center"> 🎮 My long-term goal is to build meaningful and engaging games while growing as a developer and exploring the many possibilities of technology. </p> <br> <h3 align="center">💼 Experience & Education</h3>
 
-###
+💼 Work & Internship Experience
 
-<p align="center">Im mobile and game dev enthusiast, I would love to develop multiple games that I have in my vast imagination.
-<p> But I think Im kinda busy for making those games for now, but I will develop it when I graduate from collge. </p>
-<br>
-<br>-Im also looking for experience and opportunities in any game development stuff. I would love to land a job position as a game developer in the future.
-<br>- Please do reach me out if you can help me out with this requirements that I want in my life 👩‍💻 <br></p>
+IT support Intern — Concentrix
+
+📅 November 2025 – January 2026
+
+Worked on different technical supporting on agents with their various technical, hardware and network issue. Assisted different IT support seniors with their minor and major everyday tasks.
+
+Gained experience in Vital Hardware knowledge, Basic and structured networking and security, communicating and handling issues with agents in a BPO company .
+
+Full Stack Mobile & Web Developer Intern / Project Lead Intern — Nexvision Innovations Inc.
+
+February 2026  – May 2026
+
+Assisted and contributed with Developing a mobile and web project BazaarX for the company's client, I worked and communicated with several developers, clients and QAs. Reported different updates regarding with the projects to the client. Became a project lead Intern, obtaining a few responsibilities like handling and assigning tasks for different developers and QAs while communicating with the client and project manager.
+
+Worked with Github, Git, ExpoGo and Jira.
+
+Learned and improved my skills in Typescript, Javascript and Supabase.
+
+🎓 Education
+
+Bachelor of Science in Information Technology — Major in Multimedia and Web Applications (BSIT-MWA)
+
+🏫 National University Manila
+
+📅 2022 – 2026
+
+🌱 Currently Looking For Job Opportunities:
+
+💻 Software Development opportunities
+
+🛠️ IT Support roles
+
+🎮 Game Development opportunities
+
+🧪 Game Testing / QA opportunities
+
+🚀 Internship and entry-level positions
+
+📚 Opportunities to learn, grow, and gain hands-on experience
+
+<p align="center"> <strong>I’m always open to new opportunities, collaborations, and challenges. Feel free to reach out! 👩‍💻🎮</strong> </p>
 
 <br> 
 
