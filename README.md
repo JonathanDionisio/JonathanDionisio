@@ -24,9 +24,9 @@
 <h3 align="center">👩‍💻 About Me</h3>
 <p align="center"> I’m a BSIT-MWA graduate and a passionate game enthusiast with a strong interest in technology, software development, and interactive applications. </p> <p align="center"> I’m currently looking for opportunities in <strong>software development, IT support, and the game industry</strong>, including roles in <strong>game development and game testing</strong>. </p> <p align="center"> I’m eager to apply my technical knowledge, continue developing my skills, and gain hands-on experience while contributing to real-world projects. I’m open to both <strong>full-time and internship opportunities</strong> and always willing to learn, adapt, and take on new challenges. </p> <p align="center"> 🎮 My long-term goal is to build meaningful and engaging games while growing as a developer and exploring the many possibilities of technology. </p> <br> <h3 align="center">💼 Experience & Education</h3>
 
-💼 Work & Internship Experience
+<br>
 
-IT support Intern — Concentrix
+<h2> IT support Intern — Concentrix </h2>
 
 📅 November 2025 – January 2026
 
@@ -34,7 +34,9 @@ Worked on different technical supporting on agents with their various technical,
 
 Gained experience in Vital Hardware knowledge, Basic and structured networking and security, communicating and handling issues with agents in a BPO company .
 
-Full Stack Mobile & Web Developer Intern / Project Lead Intern — Nexvision Innovations Inc.
+<br>
+
+<h2> Full Stack Mobile & Web Developer Intern / Project Lead Intern — Nexvision Innovations Inc. </h2>
 
 February 2026  – May 2026
 
@@ -44,27 +46,26 @@ Worked with Github, Git, ExpoGo and Jira.
 
 Learned and improved my skills in Typescript, Javascript and Supabase.
 
-🎓 Education
+<br>
 
-Bachelor of Science in Information Technology — Major in Multimedia and Web Applications (BSIT-MWA)
+<h2> 🎓 Education </h2>
 
 🏫 National University Manila
-
+Bachelor of Science in Information Technology — Major in Multimedia and Web Applications (BSIT-MWA)
 📅 2022 – 2026
 
 🌱 Currently Looking For Job Opportunities:
 
-💻 Software Development opportunities
+<ul>
+  <li>💻 Software Development opportunities</li>
+  <li>🛠️ IT Support roles</li>
+  <li>🎮 Game Development opportunities</li>
+  <li>🧪 Game Testing / QA opportunities</li>
+  <li>🚀 Internship and entry-level positions</li>
+  <li>📚 Opportunities to learn, grow, and gain hands-on experience</li>
+</ul>
 
-🛠️ IT Support roles
-
-🎮 Game Development opportunities
-
-🧪 Game Testing / QA opportunities
-
-🚀 Internship and entry-level positions
-
-📚 Opportunities to learn, grow, and gain hands-on experience
+<br>
 
 <p align="center"> <strong>I’m always open to new opportunities, collaborations, and challenges. Feel free to reach out! 👩‍💻🎮</strong> </p>
 
