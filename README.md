@@ -130,19 +130,4 @@ Bachelor of Science in Information Technology — Major in Multimedia and Web Ap
   <img height="150" src="readmeassets/uia.gif"  />
 </div>
 
-<br>
-
-###
-
-<br>
-
-<h3 align="center">Press Pumy the dancing skeleton to Checkout my portfolio</h3>
-
-<br>
-
-<div align="center">
- <a href = "https://jonathandionisio.vercel.app/">
-  <img src="readmeassets/boo.gif" height="200" alt="linkedin logo"  />
-  </a> 
-  </div>
 
