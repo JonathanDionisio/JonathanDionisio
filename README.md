@@ -20,7 +20,7 @@
 
 </div>
 
-<h2 align="center">yow👋, I'm Jonathan Dionisio, most people call me Nathan and in the internet known as Ebisu</h2>
+<h1 align="center">yow👋, I'm Jonathan Dionisio, most people call me Nathan and in the internet known as Ebisu</h1>
 
 ###
 
@@ -41,7 +41,7 @@ Gained experience in Vital Hardware knowledge, Basic and structured networking a
 
 <h2> Full Stack Mobile & Web Developer Intern / Project Lead Intern — Nexvision Innovations Inc. </h2>
 
-February 2026  – May 2026
+📅 February 2026  – May 2026
 
 Assisted and contributed with Developing a mobile and web project BazaarX for the company's client, I worked and communicated with several developers, clients and QAs. Reported different updates regarding with the projects to the client. Became a project lead Intern, obtaining a few responsibilities like handling and assigning tasks for different developers and QAs while communicating with the client and project manager.
 
